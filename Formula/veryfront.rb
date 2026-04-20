@@ -11,27 +11,27 @@ class Veryfront < Formula
   desc "Zero-config React meta-framework for AI-native applications"
   homepage "https://veryfront.com"
   license "MIT"
-  version "0.1.218"
+  version "0.1.219"
 
   on_macos do
     on_arm do
-      url "https://github.com/veryfront/veryfront/releases/download/v0.1.218/veryfront-macos-arm64"
-      sha256 "88ba70438e4fa1081203e142b381f7df365f572ace9fa6f086bd156ffa955882"
+      url "https://github.com/veryfront/veryfront/releases/download/v0.1.219/veryfront-macos-arm64"
+      sha256 "02e892ccd1facdb55cbdea333611493be473bead0947f45a8763a6f915159f8e"
     end
     on_intel do
-      url "https://github.com/veryfront/veryfront/releases/download/v0.1.218/veryfront-macos-x64"
-      sha256 "b86974d73ea2587f5c0ea2195ccf484981aa2e1f871c505166cfe1c9f659c5a9"
+      url "https://github.com/veryfront/veryfront/releases/download/v0.1.219/veryfront-macos-x64"
+      sha256 "b0d775aa303f54237232591d3151bb35e78ec47beef94840c685f35dda644de5"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/veryfront/veryfront/releases/download/v0.1.218/veryfront-linux-arm64"
-      sha256 "882903775fbcf6a034eb52bda4dd87491b4c3641df40997566abe9c9acebe6e8"
+      url "https://github.com/veryfront/veryfront/releases/download/v0.1.219/veryfront-linux-arm64"
+      sha256 "c65586952cf48e048a9310f31402422df738f67f3d6eb3b8b6bfff5b5f330ce1"
     end
     on_intel do
-      url "https://github.com/veryfront/veryfront/releases/download/v0.1.218/veryfront-linux-x64"
-      sha256 "984a09ead1abc7489fd19cf788ae671540d8f1ec71c2e6a475106a87a3477161"
+      url "https://github.com/veryfront/veryfront/releases/download/v0.1.219/veryfront-linux-x64"
+      sha256 "0c6fcf36431c8287b0a55735b0dcfd60c4923cc983864fad4da568938184619c"
     end
   end
 
