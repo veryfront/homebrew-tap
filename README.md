@@ -1,6 +1,6 @@
 # Homebrew Tap for Veryfront
 
-This is the official Homebrew tap for [Veryfront](https://veryfront.com), a zero-config React meta-framework for AI-native applications.
+Install the [Veryfront](https://veryfront.com) CLI through this Homebrew tap.
 
 ## Installation
 
